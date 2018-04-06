@@ -5,6 +5,12 @@
     <title>Title</title>
   </head>
   <body>
-
+      <table>
+        <tr>
+          <td>No.</td>
+          <td>Nama.</td>
+          <td>Alamat.</td>
+        </tr>
+      </table>
   </body>
 </html>
